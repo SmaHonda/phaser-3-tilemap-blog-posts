@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="277">
  <editorsettings>
-  <export target="../../../../../Documents/GitHub/phaser-3-tilemap/examples/post-1/assets/tilemaps/my-tuxemon-town.json" format="json"/>
+  <export target="my-tuxemon-town.json" format="json"/>
  </editorsettings>
  <properties>
   <property name="edges" value="clamped"/>
@@ -3478,7 +3478,7 @@
 193,194,193,194,193,194,0,0,0,0,0,0,0,0,0,0,193,194,193,194,193,194,193,194,193,194,193,194,193,194,193,194,193,194,193,194,0,8,0,152
 </data>
  </layer>
- <layer id="3" name="Above Player" width="40" height="40" visible="0">
+ <layer id="3" name="Above Player" width="40" height="40">
   <data encoding="csv">
 0,0,0,0,577,578,579,580,581,0,0,577,578,579,580,581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
